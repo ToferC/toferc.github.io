@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Art of the Passable</title>
+    <link>https://toferc.github.io/posts/</link>
+    <description>Recent content in Posts on Art of the Passable</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 20:02:57 -0500</lastBuildDate><atom:link href="https://toferc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academie_heroica</title>
+      <link>https://toferc.github.io/posts/academie_heroica/</link>
+      <pubDate>Sun, 06 Nov 2022 20:02:57 -0500</pubDate>
+      
+      <guid>https://toferc.github.io/posts/academie_heroica/</guid>
+      <description>Hero School The World of Heroica Heroica is a verdant world with high magic potential and naturally occuring portals to other worlds through points of great natural beauty and power (waterfalls, mountains, ocean depths, caverns. Portals can also occur close to extremely powerful animals, monsters, spirits and gods.
+The portals to the near worlds are open - which means lots of people know about them and anyone can use them to travel.</description>
+    </item>
+    
+    <item>
+      <title>Intersectional data, racism and bias</title>
+      <link>https://toferc.github.io/posts/intersections_mvp/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://toferc.github.io/posts/intersections_mvp/</guid>
+      <description>Intersectional data, racism and bias A necessary caveat As a white, CIS-gendered, Gen X, heterosexual male, my strategy since the spring of 2020 has been to shut the hell up, cede space to, and amplify the voices that matter in addressing racism and bias in our society.
+I&amp;rsquo;m aware of my privilege and hope to use it to celebrate the value in diversity and help others in making our world a more inclusive place.</description>
+    </item>
+    
+    <item>
+      <title>Network Graph of Canadian Legislation</title>
+      <link>https://toferc.github.io/posts/cdn_leg_graph/</link>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://toferc.github.io/posts/cdn_leg_graph/</guid>
+      <description>Network Graph of Canadian Legislation I’ve been talking about doing this one for a while, but had a bit of spare time tonight and finally completed the first cut of a network graph of Canadian legislation and the linkages between the Acts. The raw data for the graph is taken from Jason White’s excellent Gitlawca repository on GitHub.
+A full resolution image is available on my Dropbox account here.
+I used Python, BeautifulSoup and NetworkX to pull down the raw HTML, scrape it for links and pull out the names of legislation.</description>
+    </item>
+    
+  </channel>
+</rss>

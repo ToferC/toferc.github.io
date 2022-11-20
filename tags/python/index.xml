@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Art of the Passable</title>
+    <link>https://toferc.github.io/tags/python/</link>
+    <description>Recent content in python on Art of the Passable</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://toferc.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Graph of Canadian Legislation</title>
+      <link>https://toferc.github.io/posts/cdn_leg_graph/</link>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://toferc.github.io/posts/cdn_leg_graph/</guid>
+      <description>Network Graph of Canadian Legislation I’ve been talking about doing this one for a while, but had a bit of spare time tonight and finally completed the first cut of a network graph of Canadian legislation and the linkages between the Acts. The raw data for the graph is taken from Jason White’s excellent Gitlawca repository on GitHub.
+A full resolution image is available on my Dropbox account here.
+I used Python, BeautifulSoup and NetworkX to pull down the raw HTML, scrape it for links and pull out the names of legislation.</description>
+    </item>
+    
+  </channel>
+</rss>
