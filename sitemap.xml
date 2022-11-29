@@ -2,19 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://toferc.github.io/posts/academie_heroica/</loc>
-    <lastmod>2022-11-06T20:02:57-05:00</lastmod>
+    <loc>https://toferc.github.io/tags/academieheroica/</loc>
+    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/categories/</loc>
+    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/tags/cyphersystem/</loc>
+    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/tags/kidsrpgs/</loc>
+    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
   </url><url>
     <loc>https://toferc.github.io/posts/</loc>
-    <lastmod>2022-11-06T20:02:57-05:00</lastmod>
+    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/categories/roleplaying/</loc>
+    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/tags/</loc>
+    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/1-heroica/</loc>
+    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/2_5-teachers/</loc>
+    <lastmod>2022-11-20T11:02:58-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/2-hero_school/</loc>
+    <lastmod>2022-11-20T11:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/3-grounds/</loc>
+    <lastmod>2022-11-19T12:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/4-classes/</loc>
+    <lastmod>2022-11-18T13:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/5-students/</loc>
+    <lastmod>2022-11-17T14:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/6-near_worlds/</loc>
+    <lastmod>2022-11-16T15:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/7-academie_villainous/</loc>
+    <lastmod>2022-11-15T16:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/8-game_rules/</loc>
+    <lastmod>2022-11-14T17:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/</loc>
+    <lastmod>2022-11-13T20:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/tags/ttrpgs/</loc>
+    <lastmod>2022-11-13T20:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/academie_heroica/9-adventures/9-welcome_to_heroica/</loc>
+    <lastmod>2022-11-12T18:02:57-05:00</lastmod>
   </url><url>
     <loc>https://toferc.github.io/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://toferc.github.io/tags/bias/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://toferc.github.io/tags/data/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/categories/data/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://toferc.github.io/posts/intersections_mvp/</loc>
@@ -29,8 +83,8 @@
     <loc>https://toferc.github.io/tags/rust/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://toferc.github.io/tags/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <loc>https://toferc.github.io/categories/government/</loc>
+    <lastmod>2015-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://toferc.github.io/tags/legislation/</loc>
     <lastmod>2015-12-08T00:00:00+00:00</lastmod>
@@ -46,7 +100,5 @@
   </url><url>
     <loc>https://toferc.github.io/about/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>https://toferc.github.io/categories/</loc>
   </url>
 </urlset>

@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Art of the Passable</title>
+    <title>Posts on Art of the Possible</title>
     <link>https://toferc.github.io/posts/</link>
-    <description>Recent content in Posts on Art of the Passable</description>
+    <description>Recent content in Posts on Art of the Possible</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2022 20:02:57 -0500</lastBuildDate><atom:link href="https://toferc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Academie_heroica</title>
-      <link>https://toferc.github.io/posts/academie_heroica/</link>
-      <pubDate>Sun, 06 Nov 2022 20:02:57 -0500</pubDate>
-      
-      <guid>https://toferc.github.io/posts/academie_heroica/</guid>
-      <description>Hero School The World of Heroica Heroica is a verdant world with high magic potential and naturally occuring portals to other worlds through points of great natural beauty and power (waterfalls, mountains, ocean depths, caverns. Portals can also occur close to extremely powerful animals, monsters, spirits and gods.
-The portals to the near worlds are open - which means lots of people know about them and anyone can use them to travel.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 21 Nov 2022 10:02:57 -0500</lastBuildDate><atom:link href="https://toferc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intersectional data, racism and bias</title>
       <link>https://toferc.github.io/posts/intersections_mvp/</link>

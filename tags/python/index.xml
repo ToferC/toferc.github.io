@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python on Art of the Passable</title>
+    <title>python on Art of the Possible</title>
     <link>https://toferc.github.io/tags/python/</link>
-    <description>Recent content in python on Art of the Passable</description>
+    <description>Recent content in python on Art of the Possible</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://toferc.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />

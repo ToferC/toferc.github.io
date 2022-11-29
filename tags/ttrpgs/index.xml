@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TTRPGs on Art of the Possible</title>
+    <link>https://toferc.github.io/tags/ttrpgs/</link>
+    <description>Recent content in TTRPGs on Art of the Possible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Nov 2022 20:02:57 -0500</lastBuildDate><atom:link href="https://toferc.github.io/tags/ttrpgs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academie Heroica</title>
+      <link>https://toferc.github.io/posts/academie_heroica/</link>
+      <pubDate>Sun, 13 Nov 2022 20:02:57 -0500</pubDate>
+      
+      <guid>https://toferc.github.io/posts/academie_heroica/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
