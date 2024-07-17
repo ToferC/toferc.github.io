@@ -4,116 +4,100 @@
     <title>Tags on Art of the Possible</title>
     <link>https://toferc.github.io/tags/</link>
     <description>Recent content in Tags on Art of the Possible</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Nov 2022 10:02:57 -0500</lastBuildDate><atom:link href="https://toferc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2023 20:02:57 -0500</lastBuildDate>
+    <atom:link href="https://toferc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KidsRPGs</title>
+      <link>https://toferc.github.io/tags/kidsrpgs/</link>
+      <pubDate>Sat, 29 Apr 2023 20:02:57 -0500</pubDate>
+      <guid>https://toferc.github.io/tags/kidsrpgs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magical Kittens</title>
+      <link>https://toferc.github.io/tags/magical-kittens/</link>
+      <pubDate>Sat, 29 Apr 2023 20:02:57 -0500</pubDate>
+      <guid>https://toferc.github.io/tags/magical-kittens/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TTRPGs</title>
+      <link>https://toferc.github.io/tags/ttrpgs/</link>
+      <pubDate>Sat, 29 Apr 2023 20:02:57 -0500</pubDate>
+      <guid>https://toferc.github.io/tags/ttrpgs/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AcademieHeroica</title>
       <link>https://toferc.github.io/tags/academieheroica/</link>
       <pubDate>Mon, 21 Nov 2022 10:02:57 -0500</pubDate>
-      
       <guid>https://toferc.github.io/tags/academieheroica/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CypherSystem</title>
       <link>https://toferc.github.io/tags/cyphersystem/</link>
       <pubDate>Mon, 21 Nov 2022 10:02:57 -0500</pubDate>
-      
       <guid>https://toferc.github.io/tags/cyphersystem/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>KidsRPGs</title>
-      <link>https://toferc.github.io/tags/kidsrpgs/</link>
-      <pubDate>Mon, 21 Nov 2022 10:02:57 -0500</pubDate>
-      
-      <guid>https://toferc.github.io/tags/kidsrpgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TTRPGs</title>
-      <link>https://toferc.github.io/tags/ttrpgs/</link>
-      <pubDate>Sun, 13 Nov 2022 20:02:57 -0500</pubDate>
-      
-      <guid>https://toferc.github.io/tags/ttrpgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bias</title>
+      <title>Bias</title>
       <link>https://toferc.github.io/tags/bias/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://toferc.github.io/tags/bias/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>data</title>
+      <title>Data</title>
       <link>https://toferc.github.io/tags/data/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://toferc.github.io/tags/data/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>intersectionality</title>
+      <title>Intersectionality</title>
       <link>https://toferc.github.io/tags/intersectionality/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://toferc.github.io/tags/intersectionality/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>networks</title>
+      <title>Networks</title>
       <link>https://toferc.github.io/tags/networks/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://toferc.github.io/tags/networks/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rust</title>
+      <title>Rust</title>
       <link>https://toferc.github.io/tags/rust/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://toferc.github.io/tags/rust/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>legislation</title>
+      <title>Legislation</title>
       <link>https://toferc.github.io/tags/legislation/</link>
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://toferc.github.io/tags/legislation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>python</title>
+      <title>Python</title>
       <link>https://toferc.github.io/tags/python/</link>
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://toferc.github.io/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>visualization</title>
+      <title>Visualization</title>
       <link>https://toferc.github.io/tags/visualization/</link>
       <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://toferc.github.io/tags/visualization/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

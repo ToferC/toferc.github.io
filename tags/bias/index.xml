@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bias on Art of the Possible</title>
+    <title>Bias on Art of the Possible</title>
     <link>https://toferc.github.io/tags/bias/</link>
-    <description>Recent content in bias on Art of the Possible</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Bias on Art of the Possible</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://toferc.github.io/tags/bias/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://toferc.github.io/tags/bias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intersectional data, racism and bias</title>
       <link>https://toferc.github.io/posts/intersections_mvp/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://toferc.github.io/posts/intersections_mvp/</guid>
-      <description>Intersectional data, racism and bias A necessary caveat As a white, CIS-gendered, Gen X, heterosexual male, my strategy since the spring of 2020 has been to shut the hell up, cede space to, and amplify the voices that matter in addressing racism and bias in our society.
-I&amp;rsquo;m aware of my privilege and hope to use it to celebrate the value in diversity and help others in making our world a more inclusive place.</description>
+      <description>Intersectional data, racism and bias A necessary caveat As a white, CIS-gendered, Gen X, heterosexual male, my strategy since the spring of 2020 has been to shut the hell up, cede space to, and amplify the voices that matter in addressing racism and bias in our society.&#xA;I&amp;rsquo;m aware of my privilege and hope to use it to celebrate the value in diversity and help others in making our world a more inclusive place.</description>
     </item>
-    
   </channel>
 </rss>

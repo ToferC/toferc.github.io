@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://toferc.github.io/categories/</loc>
+    <lastmod>2023-04-29T20:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/tags/kidsrpgs/</loc>
+    <lastmod>2023-04-29T20:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/tags/magical-kittens/</loc>
+    <lastmod>2023-04-29T20:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/magical_kittens/adventures/</loc>
+    <lastmod>2023-04-29T20:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/magical_kittens/</loc>
+    <lastmod>2023-04-29T20:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/posts/</loc>
+    <lastmod>2023-04-29T20:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/categories/roleplaying/</loc>
+    <lastmod>2023-04-29T20:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/tags/</loc>
+    <lastmod>2023-04-29T20:02:57-05:00</lastmod>
+  </url><url>
+    <loc>https://toferc.github.io/tags/ttrpgs/</loc>
+    <lastmod>2023-04-29T20:02:57-05:00</lastmod>
+  </url><url>
     <loc>https://toferc.github.io/tags/academieheroica/</loc>
     <lastmod>2022-11-21T10:02:57-05:00</lastmod>
   </url><url>
-    <loc>https://toferc.github.io/categories/</loc>
-    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
-  </url><url>
     <loc>https://toferc.github.io/tags/cyphersystem/</loc>
-    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
-  </url><url>
-    <loc>https://toferc.github.io/tags/kidsrpgs/</loc>
-    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
-  </url><url>
-    <loc>https://toferc.github.io/posts/</loc>
-    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
-  </url><url>
-    <loc>https://toferc.github.io/categories/roleplaying/</loc>
-    <lastmod>2022-11-21T10:02:57-05:00</lastmod>
-  </url><url>
-    <loc>https://toferc.github.io/tags/</loc>
     <lastmod>2022-11-21T10:02:57-05:00</lastmod>
   </url><url>
     <loc>https://toferc.github.io/posts/academie_heroica/1-heroica/</loc>
@@ -51,9 +63,6 @@
     <lastmod>2022-11-14T17:02:57-05:00</lastmod>
   </url><url>
     <loc>https://toferc.github.io/posts/academie_heroica/</loc>
-    <lastmod>2022-11-13T20:02:57-05:00</lastmod>
-  </url><url>
-    <loc>https://toferc.github.io/tags/ttrpgs/</loc>
     <lastmod>2022-11-13T20:02:57-05:00</lastmod>
   </url><url>
     <loc>https://toferc.github.io/posts/academie_heroica/9-adventures/9-welcome_to_heroica/</loc>
@@ -99,6 +108,5 @@
     <lastmod>2015-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://toferc.github.io/about/</loc>
-    <priority>0</priority>
   </url>
 </urlset>
